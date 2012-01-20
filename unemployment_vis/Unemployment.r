@@ -1,4 +1,3 @@
-## Idea taken from http://blog.trenthauck.com/2011/12/03/visualizing-unemploymen## t -data/
 
 # pull data from: "http://www.bls.gov/web/laus/laumstrk.htm"
 
